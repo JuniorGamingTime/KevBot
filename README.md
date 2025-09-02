@@ -101,7 +101,7 @@ Now for KevBot yout'll be using StreamElements and StreamLabs JWTTs
 - **StreamLabs (Twitch or Youtube)**
     - Go to: **[StreamLabs Dashboard API Settings](https://streamlabs.com/dashboard#/settings/api-settings)**
 
-  - From here click on API Token and copy your Socket API Token
+  - From here click on **API Tokens** and copy your **Socket API Token**
     Paste it into KevBot, **Accounts > StreamLabs Bot Setting** click save and enable it.
   - Only tests are working for now (WIP)
 

@@ -62,8 +62,9 @@
   - Donation events
 
 ## :panda_face: Useful Links
-  - **[Discord](https://discord.gg/AX3g9dc)** For general updates and on discord bot support!
   - **[Twitch](https://www.twitch.tv/juniorgamingtime)** usualy gaming or working on KevBot and other projects
+  - **[Discord](https://discord.gg/AX3g9dc)** For general updates and on discord bot support!
+  - **[All my Links in one!](https://juniorgamingtime.tech/)** Here are all my links!
 
 
 

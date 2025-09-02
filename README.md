@@ -62,9 +62,9 @@
   - Donation events
 
 ## :panda_face: Useful Links
-  - **[Twitch](https://www.twitch.tv/juniorgamingtime{target=_blank})** usualy gaming or working on KevBot and other projects
-  - **[Discord](https://discord.gg/AX3g9dc{target=_blank})** For general updates and on discord bot support!
-  - **[All my Links in one!](https://juniorgamingtime.tech/{target=_blank})** Here are all my links!
+  - **[Twitch](https://www.twitch.tv/juniorgamingtime)** usualy gaming or working on KevBot and other projects
+  - **[Discord](https://discord.gg/AX3g9dc)** For general updates and on discord bot support!
+  - **[All my Links in one!](https://juniorgamingtime.tech/)** Here are all my links!
 
 
 
@@ -85,7 +85,7 @@
 Now for KevBot yout'll be using StreamElements and StreamLabs JWTTs
 
 - **StreamElements (Twitch)**
-  - Go to: **[StreamElements Dashboard](https://streamelements.com/dashboard/account/channels{target=_blank})**
+  - Go to: **[StreamElements Dashboard](https://streamelements.com/dashboard/account/channels)**
 
   - Here you'll see a toggle called Show secrets click it and copy the JWT Token 
     Paste it into KevBot, **Accounts > StreamElements Twitch Settings** click save and enable it.
@@ -93,13 +93,13 @@ Now for KevBot yout'll be using StreamElements and StreamLabs JWTTs
   - Only tests are working for StreamElements Youtube (**WIP**)
 
 - **StreamElements (Youtube)**
-  - Go to: **[StreamElements Dashboard](https://streamelements.com/dashboard/account/channels{target=_blank})**
+  - Go to: **[StreamElements Dashboard](https://streamelements.com/dashboard/account/channels)**
 
   - Here you'll see a toggle called Show secrets click it and copy the JWT Token 
     Paste it in the Bot, Accounts > StreamElements Youtube Settings click save and enable it.
 
 - **StreamLabs (Twitch or Youtube)**
-    - Go to: **[StreamLabs Dashboard API Settings](https://streamlabs.com/dashboard#/settings/api-settings{target=_blank})**
+    - Go to: **[StreamLabs Dashboard API Settings](https://streamlabs.com/dashboard#/settings/api-settings)**
 
   - From here click on API Token and copy your Socket API Token
     Paste it into KevBot, **Accounts > StreamLabs Bot Setting** click save and enable it.
@@ -219,4 +219,4 @@ If you liked this project or it helped you, please consider:
   - ⭐ Starring the repository  
   - 🐛 Reporting bugs  
   - 💡 Suggesting features 
-  - :coin: Follow or maybe even sub to my **[Twitch](https://www.twitch.tv/juniorgamingtime{target=_blank})**
+  - :coin: Follow or maybe even sub to my **[Twitch](https://www.twitch.tv/juniorgamingtime)**

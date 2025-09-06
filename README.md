@@ -29,6 +29,8 @@
 - **Command Builder**
   - Makes building Commands/Timers or listening for events easier to make and understand.
   - Easily drag modules around to any order you want!
+- **Macro Support**
+  - Run modules with macros (keyboard shortcuts)
 - **Twitch Event**
   - Live events
   - Follwer events
@@ -42,8 +44,9 @@
 - **MQTT Supoprt**
   - Send messages to your MQTT server! (Listening to Topics in Events coming soon!)
 - **Timers**
-  - Repeat commands on a timer (Need to add looping limit)
+  - Repeat commands on a timer or for a set number of loops.
   - Run Modules when "5 Minutes passed and 5 messages have been sent" (Twitch messages only for now)
+  - Run Modules every 5 Minutes for 10 loops then stop.
 - **OBS Studios**
   - Scene change events
   - Streaming/Recording/Virtual Cam state events
